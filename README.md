@@ -12,7 +12,7 @@ When a diamond is picked up the ship will grow.
 
 Player wins when all the diamonds have been picked up and the score reaches 3.
 
-Ship Controls:
+### Ship Controls:
 -------------
 Left Mouse Button - rotates ship in direction of click
 
@@ -20,7 +20,7 @@ W Key - moves ship forward
 
 S Key - moves ship backward
 
-Game Controls:
+### Game Controls:
 -------------
 F5 Key - restarts/resets game
 
